@@ -1,0 +1,9 @@
+
+{
+  "name": "Chandhu Tours and Travels",
+  "description": "A premium, fully-featured travel agency website with an integrated admin dashboard for content management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
